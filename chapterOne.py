@@ -5,6 +5,7 @@
 # Import the Pygame module into Python
 import pygame
 from pygame.locals import *
+import sys
 
 # Initialise the game
 pygame.init()
